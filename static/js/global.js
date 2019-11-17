@@ -1,5 +1,5 @@
 ﻿$( function() {
-	$.backstretch('https://gssygz.com/usr/uploads/2019/07/1180700719.jpg');
+	$.backstretch('https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture');
 	var endDate = "June 7, 2050 21:00:00";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
