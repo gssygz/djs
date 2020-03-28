@@ -1,5 +1,5 @@
 ﻿$( function() {
-	$.backstretch('https://wx3.sinaimg.cn/large/6ed964c9gy1gd1qf773g5j20p00gkh04.jpg');
+	$.backstretch('https://gssygz.com/djs/picture/1.jpg');
 	var endDate = "June 7, 2050 21:00:00";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
