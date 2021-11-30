@@ -1,6 +1,6 @@
 ﻿$( function() {
 	$.backstretch('https://gssygz.com/djs/picture/1.jpg');
-	var endDate = "June 7, 2050 21:00:00";
+	var endDate = "June 7, 2050 09:00:00";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
 	  date: endDate,
